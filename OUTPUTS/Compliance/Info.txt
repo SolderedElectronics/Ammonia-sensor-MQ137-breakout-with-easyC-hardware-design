@@ -1,5 +1,5 @@
 SKU: 333127
-Full product name: Ammonia sensor MQ137 breakout with easyC
+Full product name: Ammonia sensor MQ137 breakout qwiic
 Country of origin: Croatia
-HS tariff code: 90279090
+HS tariff code: 85340090
 EAN/UPC barcode: 732388665808
